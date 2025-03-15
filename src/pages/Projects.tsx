@@ -22,6 +22,7 @@ const Projects = () => {
       image: "https://bszyjfznackeyzqhqmtp.supabase.co/storage/v1/object/sign/images/steph_ledro_solo_reduc_landscape.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvc3RlcGhfbGVkcm9fc29sb19yZWR1Y19sYW5kc2NhcGUucG5nIiwiaWF0IjoxNzQxNzA5OTM3LCJleHAiOjE4OTkzODk5Mzd9.6rfZnMzoq49OCVuyU827LH6khfdbV4gOBo09KZ5mjsE",
       year: "2020-Present",
       role: t('projects.solo.role'),
+      link: "https://www.youtube.com/watch?v=2Dm9-lGBGds"
     },
     {
       id: 2,
@@ -39,6 +40,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1511192336575-5a79af67a629?q=80&w=2072",
       year: "2022-Present",
       role: t('projects.knorst.role'),
+      link: "https://www.youtube.com/watch?v=2Dm9-lGBGds"
     }
   ];
 
